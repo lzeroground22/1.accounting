@@ -1,5 +1,4 @@
-from application import salary
-from application.db import people
+from application import *
 from datetime import datetime
 
 current_time = datetime.now()
